@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="Parchlinux Plasma"
-iso_label="PARCHLINUX_PLASMA_$(date +%Y%m)"
-iso_publisher="Parch Linux <parchlinux.com>"
-iso_application="Parch Linux Live/Rescue CD"
+iso_name="Sac OS"
+iso_label="Sac OS_$(date +%Y%m)"
+iso_publisher="Sac OS"
+iso_application="Sac OS Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
 buildmodes=('iso')
